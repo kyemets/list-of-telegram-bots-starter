@@ -1,4 +1,4 @@
-# list-of-telegram-bot-starter
+# list-of-telegram-bots-starter
 
 List of telegram bots starter with differents apps
 
