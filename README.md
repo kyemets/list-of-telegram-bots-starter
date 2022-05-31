@@ -1,7 +1,5 @@
-# list-of-telegram-bots-starter
 
-List of telegram bots starter with differents apps
-
+# List of different telegram bots starter 
 ---
 
 1. [google-keep-telegram-bot-starter](https://github.com/kyemets/gkeep-bot-starter)
